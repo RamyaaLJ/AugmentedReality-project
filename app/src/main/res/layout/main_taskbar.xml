@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="660dp"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:gravity="center_vertical">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Proceed to CheckOut"
+        android:id="@+id/checkout"/>
+</LinearLayout>

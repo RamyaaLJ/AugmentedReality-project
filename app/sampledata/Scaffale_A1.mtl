@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.11.2016 09:06:41
+
+newmtl Metal_Dark_Gold
+	Ns 19.999998
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.878431 0.607843 0.317647
+	Ks 1.282353 1.147059 0.976471
+	Ke 0.000000 0.000000 0.000000
+	map_refl E:\Mapmy\Riflessioni\Lakerem2.jpg
+
+newmtl Scaffale1
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.225000 0.225000 0.225000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka F:\3DCollections\3D sky Models Collection  Vol 5\35\max1\2\Scaffale_DiffuseMap.jpg
+	map_Kd F:\3DCollections\3D sky Models Collection  Vol 5\35\max1\2\Scaffale_DiffuseMap.jpg
+	map_Ks F:\3DCollections\3D sky Models Collection  Vol 5\35\max1\2\Scaffale_Gray-DarkMap.jpg
+	map_bump Map__112_Normal_Bump.tga

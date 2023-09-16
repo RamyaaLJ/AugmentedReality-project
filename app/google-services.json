@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224562149067",
+    "project_id": "retrieve-feea1",
+    "storage_bucket": "retrieve-feea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224562149067:android:8afd0b823e942c8d284d4e",
+        "android_client_info": {
+          "package_name": "com.example.retrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224562149067-lhe2vblgqa6hjdr1jfj0u87qehnmgk8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37P77Nfzp_yJDF8h1bL4Pam3eVkncpB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224562149067-lhe2vblgqa6hjdr1jfj0u87qehnmgk8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

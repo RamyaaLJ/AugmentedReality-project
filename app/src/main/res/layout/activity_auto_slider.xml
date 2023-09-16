@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AutoSlider"
+    android:orientation="vertical">
+<com.smarteist.autoimageslider.SliderLayout
+    android:layout_width="match_parent"
+    android:layout_height="550dp"
+    android:id="@+id/imageSlider"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/logoid"
+        android:layout_width="150dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="130dp"
+        android:text="Get Started"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textColor="@color/white"
+        android:background="@color/black">
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+
+</LinearLayout>
